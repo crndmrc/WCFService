@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b91f2ae0-0b20-4f45-b04b-3f9b6e0afb54": {
+      "ProjectGuid": "b91f2ae0-0b20-4f45-b04b-3f9b6e0afb54",
+      "DisplayName": "WCFService",
+      "ColorIndex": 0
+    },
+    "f7630937-54a5-45e9-ac73-34122eb5a33c": {
+      "ProjectGuid": "f7630937-54a5-45e9-ac73-34122eb5a33c",
+      "DisplayName": "UI",
+      "ColorIndex": 1
+    },
+    "d0a713ad-2ee0-4c00-99da-1024b7228280": {
+      "ProjectGuid": "d0a713ad-2ee0-4c00-99da-1024b7228280",
+      "DisplayName": "DAL",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

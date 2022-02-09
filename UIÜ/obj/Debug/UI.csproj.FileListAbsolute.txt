@@ -1,0 +1,11 @@
+C:\Users\ISKUR\Desktop\ERP VE VERİ ANALİZİ\WİNDOWS FORM\WCFService\UIÜ\bin\Debug\UIÜ.exe.config
+C:\Users\ISKUR\Desktop\ERP VE VERİ ANALİZİ\WİNDOWS FORM\WCFService\UIÜ\bin\Debug\UIÜ.exe
+C:\Users\ISKUR\Desktop\ERP VE VERİ ANALİZİ\WİNDOWS FORM\WCFService\UIÜ\bin\Debug\UIÜ.pdb
+C:\Users\ISKUR\Desktop\ERP VE VERİ ANALİZİ\WİNDOWS FORM\WCFService\UIÜ\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\ISKUR\Desktop\ERP VE VERİ ANALİZİ\WİNDOWS FORM\WCFService\UIÜ\obj\Debug\UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\ISKUR\Desktop\ERP VE VERİ ANALİZİ\WİNDOWS FORM\WCFService\UIÜ\obj\Debug\UIÜ.Form1.resources
+C:\Users\ISKUR\Desktop\ERP VE VERİ ANALİZİ\WİNDOWS FORM\WCFService\UIÜ\obj\Debug\UIÜ.Properties.Resources.resources
+C:\Users\ISKUR\Desktop\ERP VE VERİ ANALİZİ\WİNDOWS FORM\WCFService\UIÜ\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\ISKUR\Desktop\ERP VE VERİ ANALİZİ\WİNDOWS FORM\WCFService\UIÜ\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\ISKUR\Desktop\ERP VE VERİ ANALİZİ\WİNDOWS FORM\WCFService\UIÜ\obj\Debug\UIÜ.exe
+C:\Users\ISKUR\Desktop\ERP VE VERİ ANALİZİ\WİNDOWS FORM\WCFService\UIÜ\obj\Debug\UIÜ.pdb
